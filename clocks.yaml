@@ -1,0 +1,18 @@
+paris:
+    timezone:    'Europe/Paris'
+    title:       'Paris, France'
+    seconds:      True
+    milliseconds: True
+    color:       'green'
+tokyo:
+    timezone:    'Asia/Tokyo'
+    title:       'Tokyo, Japan'
+    seconds:      False
+    milliseconds: False
+    color:        'red'
+london:
+    timezone:    'Europe/London'
+    title:       'London, United Kingdom'
+    seconds:      False
+    milliseconds: False
+    color:        'blue'
