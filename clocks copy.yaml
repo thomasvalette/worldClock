@@ -2,8 +2,14 @@ paris:
     timezone:    'Europe/Paris'
     title:       'Paris, France'
     seconds:      True
-    milliseconds: False
+    milliseconds: True
     color:        'white'
+tahiti:
+    timezone:    'Pacific/Tahiti'
+    title:       'Tahiti, French Polynesia'
+    seconds:      True
+    milliseconds: False
+    color:        'dark_orange3'
 tokyo:
     timezone:    'Asia/Tokyo'
     title:       'Tokyo, Japan'
@@ -22,6 +28,19 @@ losangeles:
     seconds:      False
     milliseconds: False
     color:        'blue'
+washington:
+    timezone:    'America/New_York'
+    title:       'New York, USA'
+    seconds:      False
+    milliseconds: False
+    color:        'blue'
+moscow:
+    timezone:    'Europe/Moscow'
+    title:       'Moscow, Russia'
+    seconds:      False
+    milliseconds: False
+    color:        'red'
+
 vladivostok:
     timezone:    'Asia/Vladivostok'
     title:       'Vladivostok, Russia'
