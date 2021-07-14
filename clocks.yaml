@@ -3,31 +3,42 @@ paris:
     title:       'Paris, France'
     seconds:      True
     milliseconds: False
-    color:        'white'
+    color:        'grey93'
 tokyo:
     timezone:    'Asia/Tokyo'
     title:       'Tokyo, Japan'
     seconds:      False
     milliseconds: False
-    color:        'yellow'
+    color:        'salmon1'
 london:
     timezone:    'Europe/London'
     title:       'London, United Kingdom'
     seconds:      False
     milliseconds: False
-    color:        'green'
+    color:        'dark_sea_green4'
 losangeles:
     timezone:    'America/Los_Angeles'
-    title:       'Los Angeles, USA'
+    title:       'Los_Angeles, USA'
     seconds:      False
     milliseconds: False
-    color:        'blue'
+    color:        'dark_slate_gray3'    
+newyork:
+    timezone:    'America/New_York'
+    title:       'New York, USA'
+    seconds:      False
+    milliseconds: False
+    color:        'sky_blue1'
+stpetersburg:
+    timezone:    'Europe/Moscow'
+    title:       'Saint Petersburg, Russia'
+    seconds:      False
+    milliseconds: False
+    color:        'red'
 vladivostok:
     timezone:    'Asia/Vladivostok'
     title:       'Vladivostok, Russia'
     seconds:      False
     milliseconds: False
-    color:        'red'
-    
+    color:        'indian_red1'
 
 # https://rich.readthedocs.io/en/stable/appendix/colors.html#appendix-colors

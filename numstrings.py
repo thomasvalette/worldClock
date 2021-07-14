@@ -107,7 +107,6 @@ s5 = """ █ █
      
 """
 
-
 def get_matching_str(num_str):
     switcher = {
         " " : void,
